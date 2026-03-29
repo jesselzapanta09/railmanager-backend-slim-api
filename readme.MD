@@ -1,6 +1,6 @@
 # MSIT 114 - Activity 21 - Improved SlimPHP API with Front-End
 
-This project is the **backend API** for the RailManager system. It handles data processing, authentication, email verification, and image management for users and train entities.
+This project is the **slim backend API** for the RailManager system. It handles data processing, authentication, email verification, and image management for users and train entities.
 
 ---
 
