@@ -53,7 +53,6 @@ The API should now be running at `http://localhost:5000`.
 6. Log in and log out using authorization.
 
 
-
 ## Author
 
 **Jessel Zapanta** — MSIT 114
